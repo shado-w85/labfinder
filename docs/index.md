@@ -8,4 +8,4 @@ Welcome to the official documentation for LabFinder.
 - Usage
 - Contributing
 
-LabFinder helps students quickly locate available computer laboratories.
+LabFinder is an open-source tool that helps students locate available computer laboratories.
